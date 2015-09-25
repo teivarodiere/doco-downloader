@@ -9,6 +9,7 @@ Examples:
 .\vSphere Update Manager Documentation\<everything for this topic>.pdf
 .\VMware ESX Server 2.x Documentation\<everything for this topic>.pdf
 ...
+etc..
 
 
 Bref, je vais continuer a le modifier et l'adapter a d'autre site comme Nutanix et Veeam car cet sites demande s'authentifier 
